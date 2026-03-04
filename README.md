@@ -19,7 +19,7 @@ Binary classification task using the [UCI Bank Marketing dataset](https://archiv
 
 ### How to run
 
-Open the notebook in Google Colab. The dataset is downloaded automatically from the UCI repository in the first code cell — no manual upload needed.
+Open the notebook in Google Colab. To run the file you need to have the bank-additional.csv dataset ready to import.
 
 ### Requirements
 
