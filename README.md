@@ -24,3 +24,5 @@ Open the notebook in Google Colab. The dataset is downloaded automatically from 
 ### Requirements
 
 Python 3.x, pandas, numpy, matplotlib, seaborn, scikit-learn
+
+### Created README.md File with CHATGPT 5.2
